@@ -7,12 +7,17 @@ import tempfile
 import time
 import subprocess
 import re
+import shutil
 from pathlib import Path
 from datetime import datetime
 
 # ──────────────────────────────────────────────
 # 기본 설정
 # ──────────────────────────────────────────────
+_FFMPEG_FALLBACK = r"C:\Users\Administrator\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-8.0.1-full_build\bin"
+FFMPEG_PATH = shutil.which("ffmpeg") or os.path.join(_FFMPEG_FALLBACK, "ffmpeg.exe")
+FFPROBE_PATH = shutil.which("ffprobe") or os.path.join(_FFMPEG_FALLBACK, "ffprobe.exe")
+
 DEFAULT_OUTPUT_DIR = Path(__file__).parent / "output"
 DEFAULT_OUTPUT_DIR.mkdir(exist_ok=True)
 
@@ -262,7 +267,7 @@ def download_video(url: str, output_dir: str) -> tuple[str, dict]:
 def detect_scene_changes(video_path: str, threshold: float = 0.3) -> list[float]:
     """FFmpeg로 씬 체인지(편집점) 타임스탬프 추출."""
     cmd = [
-        r"C:\Users\Administrator\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-8.0.1-full_build\bin\ffmpeg.exe",
+        FFMPEG_PATH,
         "-i", video_path,
         "-filter:v", f"select='gt(scene,{threshold})',showinfo",
         "-f", "null",
@@ -317,7 +322,7 @@ def format_timestamps_for_prompt(timestamps: list[float], total_duration: float)
 def get_video_duration(video_path: str) -> float:
     """FFprobe로 영상 길이(초) 구하기."""
     cmd = [
-        r"C:\Users\Administrator\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-8.0.1-full_build\bin\ffprobe.exe",
+        FFPROBE_PATH,
         "-v", "error",
         "-show_entries", "format=duration",
         "-of", "default=noprint_wrappers=1:nokey=1",
