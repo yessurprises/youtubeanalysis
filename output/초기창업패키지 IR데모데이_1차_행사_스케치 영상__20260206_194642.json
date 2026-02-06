@@ -1,0 +1,359 @@
+{
+  "total_duration": "01:08",
+  "scenes": [
+    {
+      "index": 1,
+      "start": "00:00",
+      "end": "00:06",
+      "duration_sec": 6.0,
+      "shot_type": "Title Card",
+      "camera_movement": "Static",
+      "subject_type": "title_card",
+      "editorial_purpose": "establish_context",
+      "description": "Event title card '2020년 초기창업패키지 IR데모데이(1차)' (2020 Early Startup Package IR Demoday (1st)) with a color-changing background."
+    },
+    {
+      "index": 2,
+      "start": "00:06",
+      "end": "00:08",
+      "duration_sec": 2.0,
+      "shot_type": "Wide Shot",
+      "camera_movement": "Pan Right",
+      "subject_type": "venue_interior",
+      "editorial_purpose": "establish_context",
+      "description": "A dynamic vertical wipe transition reveals the event banner in the venue, with text overlay '행사장 사전준비' (Venue Pre-preparation)."
+    },
+    {
+      "index": 3,
+      "start": "00:08",
+      "end": "00:10",
+      "duration_sec": 2.0,
+      "shot_type": "Close-up",
+      "camera_movement": "Static",
+      "subject_type": "signage_branding",
+      "editorial_purpose": "deliver_information",
+      "description": "Close-up of the event banner, showing logos and event details. Text overlay: '행사장 사전준비' (Venue Pre-preparation)."
+    },
+    {
+      "index": 4,
+      "start": "00:10",
+      "end": "00:12",
+      "duration_sec": 2.0,
+      "shot_type": "Medium Shot",
+      "camera_movement": "Static",
+      "subject_type": "venue_interior",
+      "editorial_purpose": "establish_context",
+      "description": "Crew members setting up cameras and monitors, preparing for the event. Text overlay: '행사장 세팅 및 행사 진행방식 및 평가방법 안내(VC)' (Venue setting, event procedure, and evaluation method guidance (VC))."
+    },
+    {
+      "index": 5,
+      "start": "00:12",
+      "end": "00:15",
+      "duration_sec": 3.0,
+      "shot_type": "Wide Shot",
+      "camera_movement": "Static",
+      "subject_type": "venue_interior",
+      "editorial_purpose": "establish_context",
+      "description": "People in a meeting room, possibly a briefing or discussion. Text overlay: '행사장 세팅 및 행사 진행방식 및 평가방법 안내(VC)' (Venue setting, event procedure, and evaluation method guidance (VC))."
+    },
+    {
+      "index": 6,
+      "start": "00:15",
+      "end": "00:17",
+      "duration_sec": 2.0,
+      "shot_type": "Medium Close-up",
+      "camera_movement": "Static",
+      "subject_type": "networking",
+      "editorial_purpose": "establish_context",
+      "description": "A person checking in on a tablet, possibly registration. Text overlay: '행사장 세팅 및 행사 진행방식 및 평가방법 안내(VC)' (Venue setting, event procedure, and evaluation method guidance (VC))."
+    },
+    {
+      "index": 7,
+      "start": "00:17",
+      "end": "00:20",
+      "duration_sec": 3.0,
+      "shot_type": "Close-up",
+      "camera_movement": "Static",
+      "subject_type": "signage_branding",
+      "editorial_purpose": "deliver_information",
+      "description": "Another close-up of the event signage, reinforcing branding. Text overlay: '행사장 사전준비' (Venue Pre-preparation)."
+    },
+    {
+      "index": 8,
+      "start": "00:20",
+      "end": "00:22",
+      "duration_sec": 2.0,
+      "shot_type": "Medium Shot",
+      "camera_movement": "Static",
+      "subject_type": "speaker",
+      "editorial_purpose": "introduce_speaker",
+      "description": "A speaker presenting on stage, with the presentation screen visible in the background. Text overlay: '기업별 피칭' (Company Pitching)."
+    },
+    {
+      "index": 9,
+      "start": "00:22",
+      "end": "00:24",
+      "duration_sec": 2.0,
+      "shot_type": "Medium Shot",
+      "camera_movement": "Static",
+      "subject_type": "speaker",
+      "editorial_purpose": "introduce_speaker",
+      "description": "Another speaker presenting from a podium. Text overlay: '기업별 피칭' (Company Pitching)."
+    },
+    {
+      "index": 10,
+      "start": "00:24",
+      "end": "00:26",
+      "duration_sec": 2.0,
+      "shot_type": "Medium Shot",
+      "camera_movement": "Static",
+      "subject_type": "speaker",
+      "editorial_purpose": "deliver_information",
+      "description": "Speaker presenting, with a slide showing apples and text. Text overlay: '기업별 피칭' (Company Pitching)."
+    },
+    {
+      "index": 11,
+      "start": "00:26",
+      "end": "00:28",
+      "duration_sec": 2.0,
+      "shot_type": "Medium Shot",
+      "camera_movement": "Static",
+      "subject_type": "speaker",
+      "editorial_purpose": "deliver_information",
+      "description": "Same speaker, slightly different angle, still showing the apple slide. Text overlay: '기업별 피칭' (Company Pitching)."
+    },
+    {
+      "index": 12,
+      "start": "00:28",
+      "end": "00:30",
+      "duration_sec": 2.0,
+      "shot_type": "Medium Shot",
+      "camera_movement": "Static",
+      "subject_type": "speaker",
+      "editorial_purpose": "deliver_information",
+      "description": "Speaker presenting, with a slide showing a flowchart. Text overlay: '기업별 피칭' (Company Pitching)."
+    },
+    {
+      "index": 13,
+      "start": "00:30",
+      "end": "00:32",
+      "duration_sec": 2.0,
+      "shot_type": "Medium Shot",
+      "camera_movement": "Static",
+      "subject_type": "speaker",
+      "editorial_purpose": "deliver_information",
+      "description": "Same speaker, slightly different angle, still showing the flowchart slide. Text overlay: '기업별 피칭' (Company Pitching)."
+    },
+    {
+      "index": 14,
+      "start": "00:32",
+      "end": "00:34",
+      "duration_sec": 2.0,
+      "shot_type": "Medium Shot",
+      "camera_movement": "Static",
+      "subject_type": "product_demo",
+      "editorial_purpose": "deliver_information",
+      "description": "A TV screen displaying a virtual presentation, indicating a hybrid event format. Text overlay: '기업별 피칭' (Company Pitching)."
+    },
+    {
+      "index": 15,
+      "start": "00:34",
+      "end": "00:36",
+      "duration_sec": 2.0,
+      "shot_type": "Medium Shot",
+      "camera_movement": "Static",
+      "subject_type": "product_demo",
+      "editorial_purpose": "deliver_information",
+      "description": "Another shot of the TV screen showing a different slide from a virtual presentation. Text overlay: '기업별 피칭' (Company Pitching)."
+    },
+    {
+      "index": 16,
+      "start": "00:36",
+      "end": "00:38",
+      "duration_sec": 2.0,
+      "shot_type": "Close-up",
+      "camera_movement": "Static",
+      "subject_type": "product_demo",
+      "editorial_purpose": "deliver_information",
+      "description": "A laptop screen showing a Zoom meeting, highlighting the virtual aspect of the event. Text overlay: '기업별 피칭' (Company Pitching)."
+    },
+    {
+      "index": 17,
+      "start": "00:38",
+      "end": "00:40",
+      "duration_sec": 2.0,
+      "shot_type": "Medium Shot",
+      "camera_movement": "Static",
+      "subject_type": "audience",
+      "editorial_purpose": "show_reaction",
+      "description": "An audience member (likely a judge or investor) watching the presentation, taking notes. Text overlay: '기업별 피칭' (Company Pitching)."
+    },
+    {
+      "index": 18,
+      "start": "00:40",
+      "end": "00:42",
+      "duration_sec": 2.0,
+      "shot_type": "Medium Shot",
+      "camera_movement": "Static",
+      "subject_type": "audience",
+      "editorial_purpose": "show_reaction",
+      "description": "Another audience member (judge/investor) watching intently. Text overlay: '기업별 피칭' (Company Pitching)."
+    },
+    {
+      "index": 19,
+      "start": "00:42",
+      "end": "00:44",
+      "duration_sec": 2.0,
+      "shot_type": "Wide Shot",
+      "camera_movement": "Static",
+      "subject_type": "audience",
+      "editorial_purpose": "show_reaction",
+      "description": "A wider shot of the audience members/judges at a table, observing the presentations. Text overlay: '기업별 피칭' (Company Pitching)."
+    },
+    {
+      "index": 20,
+      "start": "00:44",
+      "end": "00:46",
+      "duration_sec": 2.0,
+      "shot_type": "Wide Shot",
+      "camera_movement": "Pan Right",
+      "subject_type": "networking",
+      "editorial_purpose": "transition",
+      "description": "Dynamic vertical wipe transition revealing a 1:1 consulting session. Text overlay: '투자상담' (Investment Consultation)."
+    },
+    {
+      "index": 21,
+      "start": "00:46",
+      "end": "00:48",
+      "duration_sec": 2.0,
+      "shot_type": "Two Shot",
+      "camera_movement": "Static",
+      "subject_type": "networking",
+      "editorial_purpose": "deliver_information",
+      "description": "Two individuals engaged in a 1:1 mentoring/consulting session on a sofa. Text overlay: '투자상담' (Investment Consultation)."
+    },
+    {
+      "index": 22,
+      "start": "00:48",
+      "end": "00:50",
+      "duration_sec": 2.0,
+      "shot_type": "Two Shot",
+      "camera_movement": "Static",
+      "subject_type": "networking",
+      "editorial_purpose": "deliver_information",
+      "description": "Another angle of the two individuals consulting on a sofa. Text overlay: '투자상담' (Investment Consultation)."
+    },
+    {
+      "index": 23,
+      "start": "00:50",
+      "end": "00:52",
+      "duration_sec": 2.0,
+      "shot_type": "Two Shot",
+      "camera_movement": "Static",
+      "subject_type": "networking",
+      "editorial_purpose": "deliver_information",
+      "description": "Two individuals consulting at a round table. Text overlay: '투자상담' (Investment Consultation)."
+    },
+    {
+      "index": 24,
+      "start": "00:52",
+      "end": "00:54",
+      "duration_sec": 2.0,
+      "shot_type": "Two Shot",
+      "camera_movement": "Static",
+      "subject_type": "networking",
+      "editorial_purpose": "deliver_information",
+      "description": "Another angle of the two individuals consulting at a round table. Text overlay: '투자상담' (Investment Consultation)."
+    },
+    {
+      "index": 25,
+      "start": "00:54",
+      "end": "00:56",
+      "duration_sec": 2.0,
+      "shot_type": "Two Shot",
+      "camera_movement": "Static",
+      "subject_type": "networking",
+      "editorial_purpose": "deliver_information",
+      "description": "Two individuals consulting at a round table. Text overlay: '투자상담' (Investment Consultation)."
+    },
+    {
+      "index": 26,
+      "start": "00:56",
+      "end": "00:58",
+      "duration_sec": 2.0,
+      "shot_type": "Two Shot",
+      "camera_movement": "Static",
+      "subject_type": "networking",
+      "editorial_purpose": "deliver_information",
+      "description": "Another angle of the two individuals consulting at a round table. Text overlay: '투자상담' (Investment Consultation)."
+    },
+    {
+      "index": 27,
+      "start": "00:58",
+      "end": "01:00",
+      "duration_sec": 2.0,
+      "shot_type": "Two Shot",
+      "camera_movement": "Static",
+      "subject_type": "networking",
+      "editorial_purpose": "deliver_information",
+      "description": "Two individuals consulting at a round table. Text overlay: '투자상담' (Investment Consultation)."
+    },
+    {
+      "index": 28,
+      "start": "01:00",
+      "end": "01:02",
+      "duration_sec": 2.0,
+      "shot_type": "Two Shot",
+      "camera_movement": "Static",
+      "subject_type": "networking",
+      "editorial_purpose": "deliver_information",
+      "description": "Another angle of the two individuals consulting at a round table. Text overlay: '투자상담' (Investment Consultation)."
+    },
+    {
+      "index": 29,
+      "start": "01:02",
+      "end": "01:08",
+      "duration_sec": 6.0,
+      "shot_type": "Title Card",
+      "camera_movement": "Static",
+      "subject_type": "transition_graphic",
+      "editorial_purpose": "closing",
+      "description": "Logos of the organizing entities on a white background."
+    }
+  ],
+  "editing_patterns": {
+    "avg_cut_duration_sec": 2.34,
+    "pacing_curve": "slow_start → consistent_middle → slow_end",
+    "shot_type_distribution": {
+      "Title Card": 2,
+      "Wide Shot": 4,
+      "Full Shot": 0,
+      "Medium Shot": 10,
+      "Medium Close-up": 1,
+      "Close-up": 2,
+      "Extreme Close-up": 0,
+      "Over-the-Shoulder": 0,
+      "POV Shot": 0,
+      "Two Shot": 10,
+      "Insert Shot": 0,
+      "Cutaway": 0
+    },
+    "recurring_sequences": [
+      "Vertical wipe transitions are used to introduce new sections (e.g., setup to pitching, pitching to consulting).",
+      "During pitching, there's a sequence of medium shots of different speakers or the same speaker from slightly varied angles, often including the presentation screen.",
+      "During investment consultation, there's a repetitive use of two-shots of pairs consulting, alternating between different pairs or angles."
+    ],
+    "dominant_camera_style": "Predominantly static shots with occasional pan movements used for transitions between major event sections."
+  },
+  "narrative_structure": "The video follows a linear narrative: an introductory title card, followed by event setup and preparation, then the main pitching sessions (featuring both in-person and virtual presentations), leading into 1:1 investment consultations, and concluding with sponsor logos.",
+  "summary": "The video employs a clear, functional editing style, typical of event highlights. Pacing is generally consistent with short cuts (2-3 seconds) in the main event sections, creating a dynamic yet informative flow. Camera work is mostly static, focusing on the subjects and their activities, with simple vertical wipe transitions effectively segmenting the different phases of the event. The overall tone is professional and informative, aiming to showcase the event's key activities and participants.",
+  "_metadata": {
+    "video_title": "초기창업패키지 IR데모데이(1차)행사(스케치 영상)",
+    "video_url": "https://www.youtube.com/watch?v=5-DibpZ14d8",
+    "video_duration_sec": 69,
+    "uploader": "인천창업카페",
+    "upload_date": "20210226",
+    "analyzed_at": "2026-02-06T19:46:42.490979",
+    "model_used": "gemini-2.5-flash"
+  }
+}

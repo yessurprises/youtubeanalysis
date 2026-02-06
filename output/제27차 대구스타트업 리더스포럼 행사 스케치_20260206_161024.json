@@ -1,0 +1,248 @@
+{
+  "total_duration": "01:34",
+  "scenes": [
+    {
+      "index": 1,
+      "start": "00:00",
+      "end": "00:05",
+      "duration_sec": 5.0,
+      "shot_type": "Title Card",
+      "camera_movement": "Static",
+      "subject_type": "title_card",
+      "editorial_purpose": "establish_context",
+      "description": "Opening animation displaying the event logo and title: '제 27차 DSLF 대구스타트업 리더스포럼'."
+    },
+    {
+      "index": 2,
+      "start": "00:05",
+      "end": "00:10",
+      "duration_sec": 5.0,
+      "shot_type": "Medium Shot",
+      "camera_movement": "Static",
+      "subject_type": "venue_interior",
+      "editorial_purpose": "establish_context",
+      "description": "The registration desk at the event entrance, showing health protocols like hand sanitizer and a temperature check device. Text overlay: '제 27차 대구리더스포럼 입장'."
+    },
+    {
+      "index": 3,
+      "start": "00:10",
+      "end": "00:14",
+      "duration_sec": 4.0,
+      "shot_type": "Wide Shot",
+      "camera_movement": "Dolly In",
+      "subject_type": "venue_interior",
+      "editorial_purpose": "establish_context",
+      "description": "A wide shot of the event hall, showing empty tables, chairs, and camera equipment set up before the main event."
+    },
+    {
+      "index": 4,
+      "start": "00:14",
+      "end": "00:19",
+      "duration_sec": 5.0,
+      "shot_type": "Medium Shot",
+      "camera_movement": "Static",
+      "subject_type": "speaker",
+      "editorial_purpose": "introduce_speaker",
+      "description": "A male speaker (신동현 본부장) at a podium, holding a microphone and speaking, with a laptop in front of him. Text overlay: '장내 정리 및 행사안내 / 신동현 본부장'."
+    },
+    {
+      "index": 5,
+      "start": "00:19",
+      "end": "00:24",
+      "duration_sec": 5.0,
+      "shot_type": "Wide Shot",
+      "camera_movement": "Static",
+      "subject_type": "audience",
+      "editorial_purpose": "establish_context",
+      "description": "A wide shot of the audience seated at tables, many wearing masks, during the pitching session. Text overlay: '팀별 피칭 & 질의응답 / SNS 생중계'."
+    },
+    {
+      "index": 6,
+      "start": "00:24",
+      "end": "00:29",
+      "duration_sec": 5.0,
+      "shot_type": "Medium Close-up",
+      "camera_movement": "Static",
+      "subject_type": "audience",
+      "editorial_purpose": "show_reaction",
+      "description": "A close-up of an audience member wearing a mask, holding a microphone and asking a question."
+    },
+    {
+      "index": 7,
+      "start": "00:29",
+      "end": "00:36",
+      "duration_sec": 7.0,
+      "shot_type": "Medium Shot",
+      "camera_movement": "Static",
+      "subject_type": "speaker",
+      "editorial_purpose": "deliver_information",
+      "description": "A female speaker (김선영 대표님 of 아트맵) on stage, presenting with a large screen behind her. Text overlay: '아트맵 / 김선영 대표님 / 전시회 큐레이션 커머스 개발'."
+    },
+    {
+      "index": 8,
+      "start": "00:36",
+      "end": "00:43",
+      "duration_sec": 7.0,
+      "shot_type": "Medium Shot",
+      "camera_movement": "Static",
+      "subject_type": "speaker",
+      "editorial_purpose": "deliver_information",
+      "description": "A male speaker (정성용 대표님 of 이노데이터) on stage, presenting with a large screen behind him and pointing at the content. Text overlay: '이노데이터 / 정성용 대표님 / 지식공유 플랫폼 개발'."
+    },
+    {
+      "index": 9,
+      "start": "00:43",
+      "end": "00:50",
+      "duration_sec": 7.0,
+      "shot_type": "Medium Shot",
+      "camera_movement": "Static",
+      "subject_type": "speaker",
+      "editorial_purpose": "deliver_information",
+      "description": "A male speaker (임형규 대표님 of 글로벌파이어킬) on stage, presenting with a large screen behind him showing a video. Text overlay: '글로벌파이어킬 / 임형규 대표님 / 휴대용 Gun-Type 소화기'."
+    },
+    {
+      "index": 10,
+      "start": "00:50",
+      "end": "00:58",
+      "duration_sec": 8.0,
+      "shot_type": "Full Shot",
+      "camera_movement": "Static",
+      "subject_type": "speaker",
+      "editorial_purpose": "deliver_information",
+      "description": "A male speaker (이윤열 대표님 of (주)나다디지털) on stage, presenting with a large screen behind him showing a diagram. Text overlay: '(주)나다디지털 / 이윤열 대표님 / 캐주얼 모바일 게임 개발'."
+    },
+    {
+      "index": 11,
+      "start": "00:58",
+      "end": "01:05",
+      "duration_sec": 7.0,
+      "shot_type": "Full Shot",
+      "camera_movement": "Static",
+      "subject_type": "speaker",
+      "editorial_purpose": "deliver_information",
+      "description": "A male speaker (정병국 대표님 of (주)이레드) on stage, presenting with a large screen behind him showing a product diagram. Text overlay: '(주)이레드 / 정병국 대표님 / 태양광 에너지 저장 장치 개발'."
+    },
+    {
+      "index": 12,
+      "start": "01:05",
+      "end": "01:13",
+      "duration_sec": 8.0,
+      "shot_type": "Full Shot",
+      "camera_movement": "Static",
+      "subject_type": "speaker",
+      "editorial_purpose": "deliver_information",
+      "description": "A male speaker (홍지완 대표님 of (주)푸딩) on stage, presenting with a large screen behind him showing a diagram. Text overlay: '(주)푸딩 / 홍지완 대표님 / 마스크 구독 서비스 개발'."
+    },
+    {
+      "index": 13,
+      "start": "01:13",
+      "end": "01:17",
+      "duration_sec": 4.0,
+      "shot_type": "Medium Shot",
+      "camera_movement": "Static",
+      "subject_type": "networking",
+      "editorial_purpose": "establish_context",
+      "description": "Attendees engaging in networking, with one person demonstrating a product to others. Text overlay: '네트워킹'."
+    },
+    {
+      "index": 14,
+      "start": "01:17",
+      "end": "01:21",
+      "duration_sec": 4.0,
+      "shot_type": "Medium Shot",
+      "camera_movement": "Static",
+      "subject_type": "networking",
+      "editorial_purpose": "establish_context",
+      "description": "Another networking scene, showing two men discussing a device on a table."
+    },
+    {
+      "index": 15,
+      "start": "01:21",
+      "end": "01:26",
+      "duration_sec": 5.0,
+      "shot_type": "Medium Close-up",
+      "camera_movement": "Static",
+      "subject_type": "networking",
+      "editorial_purpose": "establish_context",
+      "description": "Two individuals, one male and one female, interacting and looking at a laptop during the networking session."
+    },
+    {
+      "index": 16,
+      "start": "01:26",
+      "end": "01:28",
+      "duration_sec": 2.0,
+      "shot_type": "Wide Shot",
+      "camera_movement": "Static",
+      "subject_type": "venue_interior",
+      "editorial_purpose": "transition",
+      "description": "A brief shot of the stage with the event logo, serving as a transition."
+    },
+    {
+      "index": 17,
+      "start": "01:28",
+      "end": "01:29",
+      "duration_sec": 1.0,
+      "shot_type": "Medium Shot",
+      "camera_movement": "Static",
+      "subject_type": "B-roll",
+      "editorial_purpose": "pacing_break",
+      "description": "A quick B-roll shot of a staff member looking at a phone."
+    },
+    {
+      "index": 18,
+      "start": "01:29",
+      "end": "01:30",
+      "duration_sec": 1.0,
+      "shot_type": "Medium Shot",
+      "camera_movement": "Static",
+      "subject_type": "speaker",
+      "editorial_purpose": "closing",
+      "description": "A final brief shot of a speaker on stage, possibly for closing remarks."
+    },
+    {
+      "index": 19,
+      "start": "01:30",
+      "end": "01:34",
+      "duration_sec": 4.0,
+      "shot_type": "Title Card",
+      "camera_movement": "Static",
+      "subject_type": "title_card",
+      "editorial_purpose": "closing",
+      "description": "Closing animation displaying the event logo and title, mirroring the intro."
+    }
+  ],
+  "editing_patterns": {
+    "avg_cut_duration_sec": 4.94,
+    "pacing_curve": "slow_start → consistent_middle → quick_outro",
+    "shot_type_distribution": {
+      "Wide Shot": "16%",
+      "Full Shot": "16%",
+      "Medium Shot": "42%",
+      "Medium Close-up": "11%",
+      "Other": "11%"
+    },
+    "recurring_sequences": [
+      "Intro/Outro with logo animation",
+      "Pitching sequence: Speaker on stage with presentation screen (Medium/Full Shot)",
+      "Networking sequence: Attendees interacting with each other and products (Medium/Medium Close-up)"
+    ],
+    "dominant_camera_style": "Predominantly static shots, especially during presentations, with occasional smooth dolly-in for establishing shots."
+  },
+  "narrative_structure": "The video begins with an event branding introduction, transitions to the venue setup and opening remarks, then showcases a series of startup pitches. It concludes with scenes of networking among attendees and a final branding outro.",
+  "summary": "The video uses a straightforward, documentary-style editing approach. Pacing is generally consistent, focusing on clearly presenting each segment of the event. Static medium and full shots dominate during presentations to highlight speakers and their content, while networking scenes use a mix of medium and medium close-up shots to capture interaction. The overall tone is informative and professional, effectively summarizing the event's key activities.",
+  "_metadata": {
+    "video_title": "제27차 대구스타트업 리더스포럼 행사 스케치",
+    "video_url": "https://www.youtube.com/watch?v=DLmJwOscLho",
+    "video_duration_sec": 95,
+    "uploader": "대구창조경제혁신센터",
+    "upload_date": "20200916",
+    "analyzed_at": "2026-02-06T16:10:24.467748",
+    "model_used": "gemini-2.5-flash",
+    "ffmpeg_scene_changes": [
+      65.2,
+      78.4,
+      82.2
+    ],
+    "ffmpeg_cut_count": 3
+  }
+}
