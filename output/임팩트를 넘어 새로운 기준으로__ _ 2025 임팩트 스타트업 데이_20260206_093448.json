@@ -1,0 +1,1302 @@
+{
+  "total_duration": "03:21.0",
+  "scenes": [
+    {
+      "start": "00:00.0",
+      "end": "00:01.0",
+      "shot": "Wide Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "2025 IMPACT STARTUP DAY 타이틀 카드",
+      "effects": null
+    },
+    {
+      "start": "00:01.0",
+      "end": "00:02.0",
+      "shot": "Close-up",
+      "camera": "Tracking",
+      "transition": "Hard Cut",
+      "description": "벽면에 부착된 'STARTUP DAY' 텍스트를 따라가는 카메라",
+      "effects": null
+    },
+    {
+      "start": "00:02.0",
+      "end": "00:04.0",
+      "shot": "Full Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "행사 현장의 다양한 모습을 담은 9분할 그리드 영상",
+      "effects": "Grid Overlay"
+    },
+    {
+      "start": "00:04.0",
+      "end": "00:05.0",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "현장 중계용 카메라 모니터 화면",
+      "effects": null
+    },
+    {
+      "start": "00:05.0",
+      "end": "00:06.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "무대 위에서 발표 중인 남성 발표자",
+      "effects": "Graphic Overlay (30X)"
+    },
+    {
+      "start": "00:06.0",
+      "end": "00:07.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "무대 위에서 경청 중인 다른 남성 발표자",
+      "effects": null
+    },
+    {
+      "start": "00:07.0",
+      "end": "00:08.0",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "안경을 쓴 남성 연사의 클로즈업 샷",
+      "effects": null
+    },
+    {
+      "start": "00:08.0",
+      "end": "00:09.0",
+      "shot": "Wide Shot",
+      "camera": "Zoom Out",
+      "transition": "Hard Cut",
+      "description": "무대 위 수상자들의 단체 사진 촬영",
+      "effects": null
+    },
+    {
+      "start": "00:09.0",
+      "end": "00:11.0",
+      "shot": "Wide Shot",
+      "camera": "Static",
+      "transition": "Fade Out",
+      "description": "참석자들이 다 함께 파이팅을 외치는 장면",
+      "effects": null
+    },
+    {
+      "start": "00:11.0",
+      "end": "00:12.5",
+      "shot": "Extreme Wide Shot",
+      "camera": "Tracking",
+      "transition": "Hard Cut",
+      "description": "단풍이 든 서울 시내 전경 드론 샷",
+      "effects": null
+    },
+    {
+      "start": "00:12.5",
+      "end": "00:14.5",
+      "shot": "Wide Shot",
+      "camera": "Tracking",
+      "transition": "Hard Cut",
+      "description": "행사가 열리는 붉은 지붕 건물의 외부 전경",
+      "effects": null
+    },
+    {
+      "start": "00:14.5",
+      "end": "00:16.0",
+      "shot": "Wide Shot",
+      "camera": "Tracking",
+      "transition": "Hard Cut",
+      "description": "행사장 입구의 대형 현수막과 안내판",
+      "effects": null
+    },
+    {
+      "start": "00:16.0",
+      "end": "00:17.0",
+      "shot": "Wide Shot",
+      "camera": "Tracking",
+      "transition": "Hard Cut",
+      "description": "전시 부스가 설치된 행사장 내부 전경",
+      "effects": null
+    },
+    {
+      "start": "00:17.0",
+      "end": "00:19.0",
+      "shot": "Wide Shot",
+      "camera": "Tracking",
+      "transition": "Hard Cut",
+      "description": "메인 무대와 관객석이 준비된 넓은 홀",
+      "effects": null
+    },
+    {
+      "start": "00:19.0",
+      "end": "00:20.0",
+      "shot": "Wide Shot",
+      "camera": "Tracking",
+      "transition": "Hard Cut",
+      "description": "H-OnDream의 역사를 보여주는 타임라인 벽면",
+      "effects": null
+    },
+    {
+      "start": "00:20.0",
+      "end": "00:21.5",
+      "shot": "Wide Shot",
+      "camera": "Tracking",
+      "transition": "Hard Cut",
+      "description": "푸른색 박스들로 구성된 인터랙티브 전시물",
+      "effects": null
+    },
+    {
+      "start": "00:21.5",
+      "end": "00:22.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "안내 데스크에서 등록 중인 참석자들",
+      "effects": null
+    },
+    {
+      "start": "00:22.5",
+      "end": "00:23.5",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "이름표를 확인하고 나누어주는 손",
+      "effects": null
+    },
+    {
+      "start": "00:23.5",
+      "end": "00:24.5",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "노트북으로 명단을 확인하는 스태프",
+      "effects": null
+    },
+    {
+      "start": "00:24.5",
+      "end": "00:25.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "전시물을 유심히 살펴보는 남성 참석자",
+      "effects": null
+    },
+    {
+      "start": "00:25.5",
+      "end": "00:26.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "데스크에서 대화를 나누는 사람들",
+      "effects": null
+    },
+    {
+      "start": "00:26.5",
+      "end": "00:27.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "기념품 가방을 들고 대화하는 여성들",
+      "effects": null
+    },
+    {
+      "start": "00:27.5",
+      "end": "00:29.0",
+      "shot": "Wide Shot",
+      "camera": "Tracking",
+      "transition": "Hard Cut",
+      "description": "전시장을 둘러보는 참석자들의 모습",
+      "effects": null
+    },
+    {
+      "start": "00:29.0",
+      "end": "00:30.0",
+      "shot": "Wide Shot",
+      "camera": "Tracking",
+      "transition": "Hard Cut",
+      "description": "행사장 내부를 이동하는 사람들",
+      "effects": null
+    },
+    {
+      "start": "00:30.0",
+      "end": "00:31.5",
+      "shot": "Wide Shot",
+      "camera": "Tracking",
+      "transition": "Hard Cut",
+      "description": "활기찬 분위기의 전시 부스 구역",
+      "effects": null
+    },
+    {
+      "start": "00:31.5",
+      "end": "00:32.5",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "'PAIRINGS' 로고 그래픽",
+      "effects": null
+    },
+    {
+      "start": "00:32.5",
+      "end": "00:33.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "푸른 박스 벽면의 질문을 읽는 사람들",
+      "effects": null
+    },
+    {
+      "start": "00:33.5",
+      "end": "00:34.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "전시물을 휴대폰으로 촬영하는 남성",
+      "effects": null
+    },
+    {
+      "start": "00:34.5",
+      "end": "00:35.5",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "포스트잇에 의견을 적는 손",
+      "effects": null
+    },
+    {
+      "start": "00:35.5",
+      "end": "00:36.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "벽면에 포스트잇을 붙이는 남성",
+      "effects": null
+    },
+    {
+      "start": "00:36.5",
+      "end": "00:37.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "부스에서 제품 설명을 듣는 방문객들",
+      "effects": null
+    },
+    {
+      "start": "00:37.5",
+      "end": "00:38.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "자신의 기술을 설명하는 스타트업 대표",
+      "effects": null
+    },
+    {
+      "start": "00:38.5",
+      "end": "00:39.5",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "작동 중인 정밀 기계 장치",
+      "effects": null
+    },
+    {
+      "start": "00:39.5",
+      "end": "00:40.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "리플렛을 함께 보며 대화하는 두 사람",
+      "effects": null
+    },
+    {
+      "start": "00:40.5",
+      "end": "00:41.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "부스 앞에 모여 토론하는 사람들",
+      "effects": null
+    },
+    {
+      "start": "00:41.5",
+      "end": "00:42.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "모니터 화면을 응시하는 여성 방문객",
+      "effects": null
+    },
+    {
+      "start": "00:42.5",
+      "end": "00:43.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "부스 담당자와 대화 중인 방문객들",
+      "effects": null
+    },
+    {
+      "start": "00:43.5",
+      "end": "00:44.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "심도 있는 대화를 나누는 두 남성",
+      "effects": null
+    },
+    {
+      "start": "00:44.5",
+      "end": "00:45.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "웃으며 대화하는 비즈니스 파트너들",
+      "effects": null
+    },
+    {
+      "start": "00:45.5",
+      "end": "00:47.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "세 명의 여성이 모여 네트워킹하는 모습",
+      "effects": null
+    },
+    {
+      "start": "00:47.0",
+      "end": "00:48.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "팜플렛을 꼼꼼히 읽는 중년 남성들",
+      "effects": null
+    },
+    {
+      "start": "00:48.0",
+      "end": "00:49.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "의료용 신발 제품을 설명하는 남성",
+      "effects": null
+    },
+    {
+      "start": "00:49.0",
+      "end": "00:50.0",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "전시된 특수 기능성 신발(nurfit)",
+      "effects": null
+    },
+    {
+      "start": "00:50.0",
+      "end": "00:51.0",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "휠체어용 경사로를 테스트하는 발",
+      "effects": null
+    },
+    {
+      "start": "00:51.0",
+      "end": "00:52.0",
+      "shot": "Wide Shot",
+      "camera": "Tracking",
+      "transition": "Hard Cut",
+      "description": "전시장을 가로질러 걷는 사람들",
+      "effects": null
+    },
+    {
+      "start": "00:52.0",
+      "end": "00:53.5",
+      "shot": "Wide Shot",
+      "camera": "Tracking",
+      "transition": "Hard Cut",
+      "description": "전시장 전체의 활기찬 풍경",
+      "effects": null
+    },
+    {
+      "start": "00:53.5",
+      "end": "00:54.5",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "정갈하게 준비된 케이터링 음식들",
+      "effects": null
+    },
+    {
+      "start": "00:54.5",
+      "end": "00:55.5",
+      "shot": "Medium Shot",
+      "camera": "Tracking",
+      "transition": "Hard Cut",
+      "description": "음식을 고르고 있는 참석자",
+      "effects": null
+    },
+    {
+      "start": "00:55.5",
+      "end": "00:56.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "접시에 음식을 담는 여성 참석자",
+      "effects": null
+    },
+    {
+      "start": "00:56.5",
+      "end": "00:57.5",
+      "shot": "Wide Shot",
+      "camera": "Tracking",
+      "transition": "Hard Cut",
+      "description": "강연을 듣기 위해 착석한 관객들",
+      "effects": null
+    },
+    {
+      "start": "00:57.5",
+      "end": "00:58.5",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "푸른 빛이 도는 웰컴 드링크 잔들",
+      "effects": null
+    },
+    {
+      "start": "00:58.5",
+      "end": "01:00.0",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "얼음 바스켓에 담긴 음료 병들",
+      "effects": null
+    },
+    {
+      "start": "01:00.0",
+      "end": "01:01.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "무대에서 행사를 진행하는 여성 MC",
+      "effects": null
+    },
+    {
+      "start": "01:01.0",
+      "end": "01:02.0",
+      "shot": "Full Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "스크린에 띄워진 현대차 정몽구 재단 로고",
+      "effects": null
+    },
+    {
+      "start": "01:02.0",
+      "end": "01:03.0",
+      "shot": "Full Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "재단이 육성한 펠로들의 프로필 화면",
+      "effects": null
+    },
+    {
+      "start": "01:03.0",
+      "end": "01:04.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "환영사를 전하는 정무성 이사장",
+      "effects": "Graphic Overlay (환영사)"
+    },
+    {
+      "start": "01:04.5",
+      "end": "01:05.5",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "발언 중인 정무성 이사장의 클로즈업",
+      "effects": null
+    },
+    {
+      "start": "01:05.5",
+      "end": "01:06.5",
+      "shot": "Full Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "축사를 맡은 김재구 교수의 소개 화면",
+      "effects": null
+    },
+    {
+      "start": "01:06.5",
+      "end": "01:08.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "열정적으로 축사 중인 김재구 교수",
+      "effects": "Graphic Overlay (축사)"
+    },
+    {
+      "start": "01:08.0",
+      "end": "01:09.5",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "강조하며 말하는 김재구 교수의 모습",
+      "effects": null
+    },
+    {
+      "start": "01:09.5",
+      "end": "01:11.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "박수를 치며 경청하는 관객석의 여성들",
+      "effects": null
+    },
+    {
+      "start": "01:11.0",
+      "end": "01:12.0",
+      "shot": "Wide Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "패널 토론 세션 1이 진행 중인 무대 전경",
+      "effects": null
+    },
+    {
+      "start": "01:12.0",
+      "end": "01:13.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "토론에 참여 중인 패널들의 모습",
+      "effects": "Graphic Overlay (패널 토론 세션 1)"
+    },
+    {
+      "start": "01:13.5",
+      "end": "01:14.5",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "마이크를 잡고 답변하는 남성 패널",
+      "effects": null
+    },
+    {
+      "start": "01:14.5",
+      "end": "01:15.5",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "진지하게 토론을 이어가는 다른 남성 패널",
+      "effects": null
+    },
+    {
+      "start": "01:15.5",
+      "end": "01:16.5",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "의견을 개진하는 여성 패널",
+      "effects": null
+    },
+    {
+      "start": "01:16.5",
+      "end": "01:18.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "토론 중인 두 여성 패널의 투샷",
+      "effects": null
+    },
+    {
+      "start": "01:18.0",
+      "end": "01:19.5",
+      "shot": "Wide Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "토론을 지켜보는 가득 찬 관객석",
+      "effects": null
+    },
+    {
+      "start": "01:19.5",
+      "end": "01:21.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "인큐베이팅 트랙 발표를 시작하는 남성",
+      "effects": "Graphic Overlay (인큐베이팅 트랙 발표)"
+    },
+    {
+      "start": "01:21.0",
+      "end": "01:22.5",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "발표에 집중하고 있는 남성 발표자",
+      "effects": null
+    },
+    {
+      "start": "01:22.5",
+      "end": "01:24.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "수염이 있는 남성 발표자의 피칭 장면",
+      "effects": null
+    },
+    {
+      "start": "01:24.0",
+      "end": "01:25.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "안경을 쓴 남성 발표자의 피칭 장면",
+      "effects": null
+    },
+    {
+      "start": "01:25.5",
+      "end": "01:26.5",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "열정적으로 설명하는 발표자의 얼굴",
+      "effects": null
+    },
+    {
+      "start": "01:26.5",
+      "end": "01:28.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "데이터 수치를 보여주며 발표하는 남성",
+      "effects": null
+    },
+    {
+      "start": "01:28.0",
+      "end": "01:29.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "후드티를 입고 캐주얼하게 발표하는 남성",
+      "effects": null
+    },
+    {
+      "start": "01:29.5",
+      "end": "01:30.5",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "발표 중인 남성의 클로즈업 샷",
+      "effects": null
+    },
+    {
+      "start": "01:30.5",
+      "end": "01:32.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "자신감 있게 제스처를 취하는 발표자",
+      "effects": null
+    },
+    {
+      "start": "01:32.0",
+      "end": "01:33.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "흰 셔츠를 입은 남성 발표자의 모습",
+      "effects": null
+    },
+    {
+      "start": "01:33.5",
+      "end": "01:35.0",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "차분하게 설명을 이어가는 발표자",
+      "effects": null
+    },
+    {
+      "start": "01:35.0",
+      "end": "01:36.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "검은 티셔츠를 입은 남성 발표자",
+      "effects": null
+    },
+    {
+      "start": "01:36.5",
+      "end": "01:38.0",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "강조하는 포인트를 설명하는 발표자",
+      "effects": null
+    },
+    {
+      "start": "01:38.0",
+      "end": "01:39.5",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "시각 장애인을 위한 점자 표기 제품 시연",
+      "effects": null
+    },
+    {
+      "start": "01:39.5",
+      "end": "01:41.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "노트북으로 심사 중인 심사위원석",
+      "effects": "Graphic Overlay (심사위원)"
+    },
+    {
+      "start": "01:41.0",
+      "end": "01:42.5",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "빠르게 타이핑하며 평가하는 심사위원의 손",
+      "effects": null
+    },
+    {
+      "start": "01:42.5",
+      "end": "01:43.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "발표를 경청하며 고민하는 심사위원",
+      "effects": null
+    },
+    {
+      "start": "01:43.5",
+      "end": "01:45.0",
+      "shot": "Wide Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "패널 토론 세션 2가 진행 중인 무대",
+      "effects": "Graphic Overlay (패널 토론 세션 2)"
+    },
+    {
+      "start": "01:45.0",
+      "end": "01:46.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "마이크를 들고 발언하는 남성 패널",
+      "effects": null
+    },
+    {
+      "start": "01:46.5",
+      "end": "01:47.5",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "토론 내용을 듣고 있는 여성 패널",
+      "effects": null
+    },
+    {
+      "start": "01:47.5",
+      "end": "01:48.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "답변을 이어가는 다른 남성 패널",
+      "effects": null
+    },
+    {
+      "start": "01:48.5",
+      "end": "01:50.0",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "진지한 표정으로 말하는 남성 패널",
+      "effects": null
+    },
+    {
+      "start": "01:50.0",
+      "end": "01:51.5",
+      "shot": "Wide Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "무대 위 네 명의 패널과 사회자",
+      "effects": null
+    },
+    {
+      "start": "01:51.5",
+      "end": "01:53.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "엑셀러레이팅 트랙 발표를 시작하는 남성",
+      "effects": "Graphic Overlay (엑셀러레이팅 트랙 발표)"
+    },
+    {
+      "start": "01:53.0",
+      "end": "01:54.5",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "마이크를 잡고 발표 중인 남성",
+      "effects": null
+    },
+    {
+      "start": "01:54.5",
+      "end": "01:56.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "가죽 자켓을 입은 남성 발표자",
+      "effects": null
+    },
+    {
+      "start": "01:56.0",
+      "end": "01:57.5",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "안경을 쓰고 설명하는 발표자의 모습",
+      "effects": null
+    },
+    {
+      "start": "01:57.5",
+      "end": "01:59.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "ESG 순환 모델에 대해 설명하는 발표자",
+      "effects": null
+    },
+    {
+      "start": "01:59.5",
+      "end": "02:01.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "정장을 입고 차분하게 발표하는 남성",
+      "effects": null
+    },
+    {
+      "start": "02:01.0",
+      "end": "02:02.5",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "발표 중인 남성의 진지한 눈빛",
+      "effects": null
+    },
+    {
+      "start": "02:02.5",
+      "end": "02:04.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "갈색 코트를 입은 남성 발표자",
+      "effects": null
+    },
+    {
+      "start": "02:04.0",
+      "end": "02:05.5",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "안경을 쓰고 열변을 토하는 발표자",
+      "effects": null
+    },
+    {
+      "start": "02:05.5",
+      "end": "02:07.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "사회적 가치에 대해 설명하는 발표자",
+      "effects": null
+    },
+    {
+      "start": "02:07.5",
+      "end": "02:09.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "푸른 스웨터를 입은 남성 발표자",
+      "effects": null
+    },
+    {
+      "start": "02:09.0",
+      "end": "02:10.5",
+      "shot": "Close-up",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "발표를 마무리하는 남성 발표자",
+      "effects": null
+    },
+    {
+      "start": "02:10.5",
+      "end": "02:12.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "마이크를 들고 질문하는 심사위원",
+      "effects": null
+    },
+    {
+      "start": "02:12.0",
+      "end": "02:13.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "날카로운 질문을 던지는 다른 심사위원",
+      "effects": null
+    },
+    {
+      "start": "02:13.5",
+      "end": "02:15.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "생각에 잠긴 중년 남성 관객들",
+      "effects": null
+    },
+    {
+      "start": "02:15.0",
+      "end": "02:16.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "휴대폰으로 무대를 촬영하는 남성",
+      "effects": null
+    },
+    {
+      "start": "02:16.0",
+      "end": "02:17.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "노트에 무언가를 적고 있는 여성",
+      "effects": null
+    },
+    {
+      "start": "02:17.0",
+      "end": "02:18.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "럭키 드로우 이벤트를 진행하는 MC",
+      "effects": "Graphic Overlay (LUCKY DRAW)"
+    },
+    {
+      "start": "02:18.5",
+      "end": "02:20.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "추첨함에서 번호를 뽑는 두 여성",
+      "effects": null
+    },
+    {
+      "start": "02:20.5",
+      "end": "02:22.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "경품을 전달받고 기뻐하는 당첨자",
+      "effects": null
+    },
+    {
+      "start": "02:22.5",
+      "end": "02:24.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "펠로 수료증 수여식 장면",
+      "effects": "Graphic Overlay (펠로 수료증 수여)"
+    },
+    {
+      "start": "02:24.0",
+      "end": "02:26.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "13기 펠로 수료증을 전달하는 모습",
+      "effects": null
+    },
+    {
+      "start": "02:26.5",
+      "end": "02:28.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "무대에서 소감을 말하는 남성",
+      "effects": null
+    },
+    {
+      "start": "02:28.0",
+      "end": "02:29.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "임팩트 정의에 대해 설명하는 두 여성",
+      "effects": null
+    },
+    {
+      "start": "02:29.5",
+      "end": "02:31.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "임팩트상 시상 및 기념 촬영",
+      "effects": "Graphic Overlay (임팩트상)"
+    },
+    {
+      "start": "02:31.0",
+      "end": "02:32.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "우수상 시상 장면 (1)",
+      "effects": "Graphic Overlay (우수상)"
+    },
+    {
+      "start": "02:32.5",
+      "end": "02:34.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "우수상 시상 장면 (2)",
+      "effects": null
+    },
+    {
+      "start": "02:34.0",
+      "end": "02:35.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "최우수상 시상 장면 (1)",
+      "effects": "Graphic Overlay (최우수상)"
+    },
+    {
+      "start": "02:35.5",
+      "end": "02:37.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "최우수상 시상 장면 (2)",
+      "effects": null
+    },
+    {
+      "start": "02:37.0",
+      "end": "02:38.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "최우수상 시상 장면 (3)",
+      "effects": null
+    },
+    {
+      "start": "02:38.5",
+      "end": "02:40.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "최우수상 시상 장면 (4)",
+      "effects": null
+    },
+    {
+      "start": "02:40.0",
+      "end": "02:42.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "최우수상 시상 장면 (5)",
+      "effects": null
+    },
+    {
+      "start": "02:42.5",
+      "end": "02:44.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "무대로 걸어 나오는 대상 후보자들",
+      "effects": null
+    },
+    {
+      "start": "02:44.0",
+      "end": "02:45.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "대상 시상 장면 (1)",
+      "effects": "Graphic Overlay (대상)"
+    },
+    {
+      "start": "02:45.5",
+      "end": "02:47.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "대상 시상 장면 (2)",
+      "effects": null
+    },
+    {
+      "start": "02:47.5",
+      "end": "02:49.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "대상 수상자들의 기념 촬영",
+      "effects": null
+    },
+    {
+      "start": "02:49.5",
+      "end": "02:51.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "무대 위에 나란히 선 수상자들",
+      "effects": null
+    },
+    {
+      "start": "02:51.0",
+      "end": "02:53.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "대상 수상 소감을 말하는 남성",
+      "effects": null
+    },
+    {
+      "start": "02:53.0",
+      "end": "02:54.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "함께 대상을 받은 다른 남성의 소감",
+      "effects": null
+    },
+    {
+      "start": "02:54.5",
+      "end": "02:56.0",
+      "shot": "Wide Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "수상자 전원 단체 기념 촬영 (1)",
+      "effects": null
+    },
+    {
+      "start": "02:56.0",
+      "end": "02:58.0",
+      "shot": "Wide Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "수상자 전원 단체 기념 촬영 (2)",
+      "effects": null
+    },
+    {
+      "start": "02:58.0",
+      "end": "03:00.0",
+      "shot": "Wide Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "전체 참석자 단체 기념 촬영",
+      "effects": null
+    },
+    {
+      "start": "03:00.0",
+      "end": "03:01.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "최우수상 수상 팀의 기념 사진",
+      "effects": null
+    },
+    {
+      "start": "03:01.5",
+      "end": "03:03.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "최우수상 수상 팀 단체 사진",
+      "effects": null
+    },
+    {
+      "start": "03:03.0",
+      "end": "03:04.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "우수상 수상자들의 기념 사진",
+      "effects": null
+    },
+    {
+      "start": "03:04.5",
+      "end": "03:06.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "우수상 수상 팀 단체 사진",
+      "effects": null
+    },
+    {
+      "start": "03:06.0",
+      "end": "03:07.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "우수상과 임팩트상을 동시에 받은 수상자",
+      "effects": null
+    },
+    {
+      "start": "03:07.5",
+      "end": "03:09.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "최우수상 수상자의 기념 사진",
+      "effects": null
+    },
+    {
+      "start": "03:09.0",
+      "end": "03:10.5",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "우수상 수상자의 기념 사진",
+      "effects": null
+    },
+    {
+      "start": "03:10.5",
+      "end": "03:12.0",
+      "shot": "Medium Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "대상 수상자의 기념 사진",
+      "effects": null
+    },
+    {
+      "start": "03:12.0",
+      "end": "03:14.5",
+      "shot": "Wide Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "다 함께 파이팅을 외치는 마지막 단체 샷",
+      "effects": null
+    },
+    {
+      "start": "03:14.5",
+      "end": "03:16.5",
+      "shot": "Wide Shot",
+      "camera": "Static",
+      "transition": "Hard Cut",
+      "description": "다른 각도에서 본 파이팅 장면",
+      "effects": null
+    },
+    {
+      "start": "03:16.5",
+      "end": "03:21.0",
+      "shot": "Wide Shot",
+      "camera": "Static",
+      "transition": "Fade Out",
+      "description": "H-OnDream Startup Ground 엔딩 로고",
+      "effects": null
+    }
+  ],
+  "summary": "본 영상은 '2025 임팩트 스타트업 데이' 행사의 전 과정을 담은 하이라이트 영상입니다. 초반부의 빠른 템포의 컷 편집과 그리드 구성을 통해 행사의 역동성을 강조했으며, 중반부에는 전시장 스케치와 네트워킹 장면을 통해 현장감을 전달합니다. 후반부 시상식 장면에서는 수상자들의 기쁨을 담기 위해 인물 중심의 미디엄 샷과 단체 샷을 적절히 혼용하였습니다. 전반적으로 하드 컷 위주의 깔끔한 편집 스타일을 유지하며, 주요 정보는 그래픽 오버레이를 통해 효과적으로 전달하고 있습니다."
+}
