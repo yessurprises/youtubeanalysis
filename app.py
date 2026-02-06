@@ -53,7 +53,7 @@ with st.sidebar:
         "Gemini 모델",
         options=list(AVAILABLE_MODELS.keys()),
         format_func=lambda x: AVAILABLE_MODELS[x],
-        index=0,  # 기본값: gemini-3-flash-preview
+        index=2,  # 기본값: gemini-2.5-flash
         help="공식 문서 기준 사용 가능한 모델"
     )
 
@@ -93,7 +93,6 @@ ANALYSIS_PROMPT = """당신은 전문 영상 편집자입니다. 이 영상의 '
 
 1. **Timecode:** 0.5초 단위의 타임스탬프를 기록할 것 (예: 00:01.5)
 2. **Short Cuts:** 1초 미만의 짧은 컷도 놓치지 말 것
-3. **모든 컷을 Hard Cut으로 판단하지 말 것** - 트랜지션 유형을 정확히 구분할 것
 
 ## 샷 타입 분류
 - Extreme Wide Shot | Wide Shot | Full Shot | Medium Shot
@@ -105,39 +104,6 @@ ANALYSIS_PROMPT = """당신은 전문 영상 편집자입니다. 이 영상의 '
 - Zoom In/Out | Dolly In/Out | Tracking/Follow
 - Crane/Jib | Handheld | Steadicam
 
-## 트랜지션 분류
-
-**[컷]**
-- Hard Cut: 즉시 전환 (프레임 간 시각적 연결 없음)
-- Jump Cut: 같은 프레임에서 시간 건너뜀
-- Match Cut: 유사한 구도/동작으로 연결
-- Cross Cut: 두 장면 번갈아 보여줌
-- Cutaway: 다른 장면으로 잠시 전환
-- L-Cut: 이전 오디오가 다음 장면까지 이어짐
-- J-Cut: 다음 오디오가 먼저 들림
-
-**[페이드]**
-- Fade In: 검은 화면에서 밝아짐
-- Fade Out: 검은 화면으로 어두워짐
-- Fade to White: 흰색으로 전환
-
-**[디졸브]**
-- Cross Dissolve: 두 장면이 겹치며 전환
-- Ripple Dissolve: 물결 효과 디졸브
-
-**[와이프]**
-- Linear Wipe: 수평/수직 밀어내기
-- Iris Wipe: 원형 확대/축소
-- Clock Wipe: 시계 방향 회전
-
-**[카메라 기반]**
-- Whip Pan: 빠른 팬으로 전환
-- Zoom Transition: 줌으로 전환
-- Shake Transition: 흔들림 전환
-
-**[특수 효과]**
-- Bloom/Lens Flare | Glitch | Chromatic Aberration
-
 ## 출력 형식 (JSON)
 {
   "total_duration": "MM:SS.s",
@@ -147,7 +113,6 @@ ANALYSIS_PROMPT = """당신은 전문 영상 편집자입니다. 이 영상의 '
       "end": "MM:SS.s",
       "shot": "샷 타입",
       "camera": "카메라 움직임",
-      "transition": "다음 씬으로의 트랜지션 유형",
       "description": "화면 내용 및 피사체 동작 설명",
       "effects": "특수효과 (없으면 null)"
     }
@@ -162,8 +127,9 @@ def download_video(url: str, output_dir: str) -> str:
     ydl_opts = {
         'format': 'best[height<=720]',  # 720p 이하로 제한 (업로드 용량 고려)
         'outtmpl': os.path.join(output_dir, '%(title)s.%(ext)s'),
-        'quiet': True,
-        'no_warnings': True,
+        'quiet': False,
+        'no_warnings': False,
+        'verbose': True # 상세 로그 출력
     }
 
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
@@ -242,33 +208,72 @@ def save_analysis_result(video_name: str, result_json: dict, save_dir: Path) -> 
 
 
 def json_to_markdown(data: dict) -> str:
-    """JSON을 마크다운으로 변환"""
+    """JSON의 모든 정보를 마크다운으로 변환 (누락 없음)"""
     md = []
+
+    # 처리 완료된 키 추적
+    handled_keys = set()
 
     if "total_duration" in data:
         md.append(f"## 영상 길이: {data['total_duration']}\n")
+        handled_keys.add("total_duration")
 
     if "scenes" in data:
+        handled_keys.add("scenes")
         md.append("## 씬 분석\n")
-        md.append("| 타임코드 | 샷 타입 | 카메라 | 트랜지션 | 설명 | 효과 |")
-        md.append("|----------|---------|--------|----------|------|------|")
 
-        for scene in data["scenes"]:
-            # 새 형식 (start/end) 또는 구 형식 (time) 지원
+        # 알려진 필드 매핑 (표시 순서 및 한글 라벨)
+        known_fields = {
+            "start": None, "end": None,  # 타임코드로 별도 처리
+            "shot": "샷 타입",
+            "camera": "카메라",
+            "description": "설명",
+            "effects": "효과",
+        }
+
+        for i, scene in enumerate(data["scenes"]):
+            # 타임코드
             if "start" in scene and "end" in scene:
                 timecode = f"{scene['start']} - {scene['end']}"
             else:
                 timecode = scene.get("time", "-")
 
-            effects = scene.get("effects") or "-"
-            description = scene.get("description", "-")
-            md.append(f"| {timecode} | {scene.get('shot', '-')} | {scene.get('camera', '-')} | {scene.get('transition', '-')} | {description} | {effects} |")
+            md.append(f"### #{i+1} | {timecode}\n")
+
+            # 알려진 필드 출력
+            for key, label in known_fields.items():
+                if label is None:
+                    continue
+                val = scene.get(key)
+                display = val if val is not None else "-"
+                md.append(f"- **{label}:** {display}")
+
+            # 알려지지 않은 추가 필드도 모두 출력
+            extra_keys = [k for k in scene if k not in known_fields]
+            for key in extra_keys:
+                val = scene[key]
+                display = val if val is not None else "-"
+                md.append(f"- **{key}:** {display}")
+
+            md.append("")  # 씬 간 빈 줄
 
     if "summary" in data:
-        md.append(f"\n## 편집 스타일 요약\n{data['summary']}")
+        md.append(f"## 편집 스타일 요약\n{data['summary']}\n")
+        handled_keys.add("summary")
 
     if "raw_response" in data:
-        md.append(f"\n## 분석 결과\n{data['raw_response']}")
+        md.append(f"## 분석 결과\n{data['raw_response']}\n")
+        handled_keys.add("raw_response")
+
+    # JSON에 있는 그 외 모든 최상위 키도 출력
+    for key in data:
+        if key not in handled_keys:
+            val = data[key]
+            if isinstance(val, (dict, list)):
+                md.append(f"## {key}\n")
+                md.append(f"```json\n{json.dumps(val, ensure_ascii=False, indent=2)}\n```\n")
+            else:
+                md.append(f"## {key}\n{val}\n")
 
     return "\n".join(md)
 
